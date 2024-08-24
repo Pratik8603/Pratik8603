@@ -27,7 +27,7 @@ def scan_vulnerabilities(domain):
             print(f"Possible {vulnerability['name']} vulnerability detected in response body")
 
 # Define the domain to scan
-domain = "https://collegedunia.com/"
+domain = "https//example.com"
 
 # Scan for vulnerabilities
 scan_vulnerabilities(domain)
