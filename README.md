@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 I’m currently working on Secure Web Application Development
 - 🌱 I’m currently learning SOC
-- 👯 I’m looking to collaborate on Cybersecurity Ptojects
+- 👯 I’m looking to collaborate on Cybersecurity Projects
 - 📫 How to reach me: Email:- prateekpatel89136@gmail.com
 
 ## Skills
